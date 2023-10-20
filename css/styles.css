@@ -804,7 +804,7 @@ input {
   color: #8e8f99;
 }
 
-.check-text a {
+.check-text .check-link {
   color: #4d5ae5;
   text-decoration: underline;
 }
